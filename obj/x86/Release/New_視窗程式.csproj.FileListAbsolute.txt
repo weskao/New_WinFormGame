@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\bin\Release\New_視窗程式.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\bin\Release\New_視窗程式.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Form1.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Form2.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Form3.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Form4.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Properties.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\bin\Release\New_視窗程式.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\bin\Release\New_視窗程式.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Form2.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Form3.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.Form4.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\搞鬼Online.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\New_視窗程式\New_視窗程式\obj\x86\Release\New_視窗程式.pdb
